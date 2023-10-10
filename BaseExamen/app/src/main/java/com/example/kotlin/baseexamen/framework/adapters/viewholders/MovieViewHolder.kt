@@ -6,7 +6,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.example.kotlin.baseexamen.data.network.model.MovieBase
 import com.example.kotlin.baseexamen.databinding.ItemMovieBinding
-
+//Hacer binding de los componentes de item movie con los datos obtenidos en el llamado a la función
 class MovieViewHolder (private val binding : ItemMovieBinding) : RecyclerView.ViewHolder(binding.root) {
     fun bind(item: MovieBase, context: Context){
         val IMAGE_BASE = "https://image.tmdb.org/t/p/w500/"

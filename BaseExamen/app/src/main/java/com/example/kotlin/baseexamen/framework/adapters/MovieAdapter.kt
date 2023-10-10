@@ -8,6 +8,7 @@ import com.example.kotlin.baseexamen.data.network.model.MovieBase
 import com.example.kotlin.baseexamen.databinding.ItemMovieBinding
 import com.example.kotlin.baseexamen.framework.adapters.viewholders.MovieViewHolder
 
+//Maneja el movieviewholder y declara el tipo de data a utilizar <moviebase>
 class MovieAdapter:  RecyclerView.Adapter<MovieViewHolder>() {
     lateinit var context: Context
     var data:ArrayList<MovieBase> = ArrayList()
