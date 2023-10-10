@@ -1,5 +1,8 @@
 package com.example.kotlin.baseexamen.data.network
 
+
+//Api Client
+//Maneja Movie api service a través de un Network module
 class MovieApiClient {
     private lateinit var api: MovieApiService
 
