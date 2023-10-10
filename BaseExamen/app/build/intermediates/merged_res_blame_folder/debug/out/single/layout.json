@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\charl\\.gradle\\daemon\\8.0\\com.example.kotlin.baseexamen.app-mergeDebugResources-39:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\charl\\.gradle\\daemon\\8.0\\com.example.kotlin.baseexamen.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\charl\\.gradle\\daemon\\8.0\\com.example.kotlin.baseexamen.app-mergeDebugResources-39:\\layout\\item_movie.xml",
+        "source": "C:\\Users\\charl\\.gradle\\daemon\\8.0\\com.example.kotlin.baseexamen.app-main-42:\\layout\\item_movie.xml"
+    },
+    {
+        "merged": "com.example.kotlin.baseexamen.app-mergeDebugResources-39:/layout/item_movie.xml",
+        "source": "com.example.kotlin.baseexamen.app-main-42:/layout/item_movie.xml"
+    }
+]
