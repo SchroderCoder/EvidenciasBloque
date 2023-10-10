@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.kotlin.baseexamen.app-mergeReleaseResources-39:/layout/item_movie.xml",
+        "source": "com.example.kotlin.baseexamen.app-main-41:/layout/item_movie.xml"
+    },
+    {
+        "merged": "com.example.kotlin.baseexamen.app-mergeReleaseResources-39:/layout/activity_main.xml",
+        "source": "com.example.kotlin.baseexamen.app-main-41:/layout/activity_main.xml"
+    }
+]

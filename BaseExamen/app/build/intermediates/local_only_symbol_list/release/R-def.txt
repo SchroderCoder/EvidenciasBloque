@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color accent
+color accentVariant1
+color accentVariant2
+color black
+color divider
+color primary
+color primaryDark
+color primaryLight
+color purple_200
+color purple_500
+color purple_700
+color secondaryText
+color semiWhite
+color teal_200
+color teal_700
+color textIcons
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id RVMovie
+id poster
+id title
+layout activity_main
+layout item_movie
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.BaseExamen
+xml backup_rules
+xml data_extraction_rules
